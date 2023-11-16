@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cornsilk;
+    text-align: center;
+}
+
+h1, h3{
+    margin: 10px;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#brown{
+    color: white;
+    background-color: brown;
+}
+
+#green{
+    color: white;
+    background-color: green;
+}
+
+#blue{
+    color: white;
+    background-color: blue;
+}
+
+#white{
+    color: black;
+    background-color:white;
+}

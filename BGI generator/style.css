@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: content-box;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    margin-top: 10%;
+}
+
+h1 ,p, #results{
+    color: aliceblue;
+    padding: 10px 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+
+button{
+    padding: 7px;
+    border-radius: 5px;
+    margin: 5px 5px;
+    color: black;
+    font-size: larger;
+}
